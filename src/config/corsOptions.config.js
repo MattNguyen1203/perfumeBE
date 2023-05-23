@@ -1,4 +1,4 @@
-const whiteList = ["https://perfume-web.vercel.app"];
+const whiteList = ["https://perfume-pi.vercel.app"];
 
 const corsOptions = {
   origin: function (origin, callback) {
